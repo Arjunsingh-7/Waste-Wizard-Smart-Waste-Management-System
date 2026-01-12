@@ -19,21 +19,26 @@ A full-stack **IoT-ready Smart Waste Management System** designed to monitor dus
 
 ## 🖼️ Project Screenshots
 
-### Landing Page
-![Landing Page](./screenshots/landing.png)
+### 🔐 Login Page
+![Login Page](./Login.png)
 
-### Registration & Login
-![Register](./screenshots/register.png)
-![Login](./screenshots/login.png)
+### 📝 Registration Page
+![Registration Page](./Registration%20page.png)
 
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+### 📊 Dashboard
+![Dashboard](./Dashboard%20(2).png)
 
-### Add Dustbin (Map View)
-![Add Dustbin](./screenshots/add-dustbin.png)
+### 🗺️ Map View & Tracking
+![Map View and Tracking](./MAP%20view%20and%20Tracking%20view.png)
 
-### Analytics Dashboard
-![Analytics](./screenshots/analytics.png)
+### 🔔 Notification View
+![Notification View](./Notification%20view.png)
+
+### 🗄️ Database Schema
+![Database](./Database.png)
+
+### 🎨 Frontend UI Overview
+![Frontend UI](./Frontend%20UI.png)
 
 ---
 
@@ -86,4 +91,53 @@ A full-stack **IoT-ready Smart Waste Management System** designed to monitor dus
 ---
 
 ## 🧠 System Architecture
+---
+
+## 🔮 Future Scope & Vision
+
+Waste Wizard is designed as a **scalable smart-city platform**, not just a monitoring dashboard.
+The long-term vision is to evolve this system into an **AI-driven, autonomous waste management ecosystem** that supports efficient, transparent, and sustainable urban operations.
+
+---
+
+### 🌍 Smart City Integration
+- Integration with municipal and smart-city infrastructure
+- City-wide waste monitoring across zones and wards
+- Centralized control panel for government and municipal bodies
+- Public dashboards to ensure transparency and accountability
+
+---
+
+### 🤖 AI & Machine Learning Enhancements
+- Predictive analytics to forecast when dustbins will reach capacity
+- Machine learning models trained on historical waste generation data
+- Intelligent alerts generated before overflow conditions occur
+- Data-driven decision support for optimized waste collection planning
+
+---
+
+### 🚛 Smart Route Optimization
+- AI-based route planning for garbage collection vehicles
+- Reduced fuel consumption and operational costs
+- Faster response times for critical and high-priority locations
+- Dynamic route updates based on real-time dustbin status
+
+---
+
+### 🔌 IoT & Automation Roadmap
+- Integration of IoT sensors for real-time fill-level monitoring
+- Automated data ingestion from connected hardware devices
+- Rule-based automation to minimize manual intervention
+- Foundation for fully autonomous waste collection workflows
+
+---
+
+### 🌱 Sustainability & Environmental Impact
+- Prevention of waste overflow and urban pollution
+- Optimized utilization of municipal resources
+- Data-backed insights for long-term environmental planning
+- Contribution toward cleaner, smarter, and more sustainable cities
+
+---
+
 
