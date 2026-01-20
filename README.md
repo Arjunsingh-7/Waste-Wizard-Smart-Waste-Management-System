@@ -8,7 +8,7 @@
 ![Turso](https://img.shields.io/badge/Turso-LibSQL-blue)
 ![Deployment](https://img.shields.io/badge/Deployed-Vercel-brightgreen)
 
-A full-stack **IoT-ready Smart Waste Management System** designed to monitor dustbin status, prevent overflow, track locations on maps, and provide analytics for efficient waste handling.
+Waste Wizard is a **full-stack, IoT-ready Smart Waste Management System** designed to monitor dustbin status, prevent overflow, track locations on maps, and provide analytics for efficient and sustainable waste handling.
 
 ---
 
@@ -40,33 +40,32 @@ A full-stack **IoT-ready Smart Waste Management System** designed to monitor dus
 ### 🗄️ Database Schema
 ![Database](./Database.png)
 
-
 ---
 
 ## 🚀 Features
 
-### User Features
+### 👤 User Features
 - 🔐 Secure authentication (Login / Signup)
-- 👤 Category-based accounts (College, Municipal, Cafe, Airport, etc.)
+- 🏢 Category-based accounts (College, Municipal, Cafe, Airport, etc.)
 - 🗺️ Live dustbin location tracking using interactive maps
-- 🧾 View dustbin status (Green / Red fill level)
+- 🧾 Real-time dustbin status (Green / Red fill levels)
 - 🌗 Dark & Light mode support
-- 📱 Fully responsive UI (mobile + desktop)
+- 📱 Fully responsive UI (Mobile & Desktop)
 
-### System Features
+### ⚙️ System Features
 - ➕ Add and manage dustbins
-- 📊 Analytics dashboard for monitoring fill levels
+- 📊 Analytics dashboard for monitoring waste levels
 - 🚨 Notification system (IoT-ready)
-- ⚙️ REST APIs for future hardware integration
-- 🧠 Modular backend architecture
+- 🔌 REST APIs for hardware integration
+- 🧠 Modular & scalable backend architecture
 
-> **Note:** Dustbin fill level defaults to **0%** until IoT hardware is connected.
+> **Note:** Dustbin fill levels default to **0%** until IoT hardware is connected.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 - **Next.js 15** (App Router)
 - **React 19**
 - **TypeScript**
@@ -76,69 +75,25 @@ A full-stack **IoT-ready Smart Waste Management System** designed to monitor dus
 - **Leaflet.js** (Maps)
 - **Recharts** (Analytics)
 
-### Backend
+### 🧩 Backend
 - **Next.js API Routes**
 - **REST APIs**
 - **Better Auth** (Authentication)
 - **Drizzle ORM**
 
-### Database
+### 🗄️ Database
 - **Turso (LibSQL / SQLite)**  
-  Serverless, lightweight, edge-ready SQL database.
+  Serverless, lightweight, and edge-ready SQL database.
 
-### Deployment
+### ☁️ Deployment
 - **Vercel**
 
 ---
 
-## 🧠 System Architecture
----
+## 📦 Getting Started
 
-## 🔮 Future Scope & Vision
+Follow these steps to run the project locally.
 
-Waste Wizard is designed as a **scalable smart-city platform**, not just a monitoring dashboard.
-The long-term vision is to evolve this system into an **AI-driven, autonomous waste management ecosystem** that supports efficient, transparent, and sustainable urban operations.
-
----
-
-### 🌍 Smart City Integration
-- Integration with municipal and smart-city infrastructure
-- City-wide waste monitoring across zones and wards
-- Centralized control panel for government and municipal bodies
-- Public dashboards to ensure transparency and accountability
-
----
-
-### 🤖 AI & Machine Learning Enhancements
-- Predictive analytics to forecast when dustbins will reach capacity
-- Machine learning models trained on historical waste generation data
-- Intelligent alerts generated before overflow conditions occur
-- Data-driven decision support for optimized waste collection planning
-
----
-
-### 🚛 Smart Route Optimization
-- AI-based route planning for garbage collection vehicles
-- Reduced fuel consumption and operational costs
-- Faster response times for critical and high-priority locations
-- Dynamic route updates based on real-time dustbin status
-
----
-
-### 🔌 IoT & Automation Roadmap
-- Integration of IoT sensors for real-time fill-level monitoring
-- Automated data ingestion from connected hardware devices
-- Rule-based automation to minimize manual intervention
-- Foundation for fully autonomous waste collection workflows
-
----
-
-### 🌱 Sustainability & Environmental Impact
-- Prevention of waste overflow and urban pollution
-- Optimized utilization of municipal resources
-- Data-backed insights for long-term environmental planning
-- Contribution toward cleaner, smarter, and more sustainable cities
-
----
-
-
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/ankuragnihotri55/WasteWizardProject.git
