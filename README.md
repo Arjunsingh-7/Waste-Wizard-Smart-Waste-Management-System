@@ -13,9 +13,19 @@ Waste Wizard is a **full-stack, IoT-ready Smart Waste Management System** design
 ---
 
 ## 🔗 Live Demo
-![Demo GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-Or view live project (if deployed):  
-[🔗 Live Demo]( https://wastewizard.vercel.app/)
+
+**🌐 View the live project:**  
+[**https://wastewizard.vercel.app/**](https://wastewizard.vercel.app/)
+
+---
+
+### 🎥 Demo Preview
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Waste Wizard Demo" width="600"/>
+</div>
+
+---
 
 
 ---
